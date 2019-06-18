@@ -25,10 +25,10 @@ In order to push this code to a ESP8266 board it has to be uploaded to the board
 After installing the Arduino IDE. The board has to be connected to your computer via micro-USB. The boards options have to be configured. Make sure that these options are set:
 
 Set up your chip as:
-*Tools -> Board -> NodeMCU 1.0 (ESP-12E Module)
-*Tools -> Flash Size -> 4M (3M SPIFFS)
-*Tools -> CPU Frequency -> 80 Mhz
-*Tools -> Upload Speed -> 921600
-*Tools-->Port--> (whatever port the board is mounted on for me it was /dev/sdX <-- X will be different for you.
+* Tools -> Board -> NodeMCU 1.0 (ESP-12E Module)
+* Tools -> Flash Size -> 4M (3M SPIFFS)
+* Tools -> CPU Frequency -> 80 Mhz
+* Tools -> Upload Speed -> 921600
+* Tools-->Port--> (whatever port the board is mounted on for me it was /dev/sdX <-- X will be different for you.
 
 Open the serial monitor (ctrl+shift+m). This allows you to see the output that the board is printing. If you don't see any output or get garbage make sure that your upload speed and baud rate are the same. You can change the baud rate after opening the serial monitor it should be at the bottom of the serial monitors window.
