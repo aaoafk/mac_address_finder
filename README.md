@@ -1,7 +1,19 @@
 # mac-address-finder
-Hardware mac address finder project
+
+Mac Address Finder 
+
+## Introduction
+This project was proposed by **Christina Webster**, who is a Technical Support Specialist, of ITS at Swarthmore College as part of the 2019 Swarthmore Projects for Educational Exploration & Development ([SPEED](https://www.swarthmore.edu/its/swarthmore-projects-educational-exploration-and-development-speed-program)) Program. The project is led by Anthony Weed of Swarthmore College, as well as Steven Fernandez ('20) and Helen Huh ('21).
+
+## Motivation
+
 
 [Mac Address Finder project](https://learn.adafruit.com/mac-address-finder)
+
+
+## Goals
+
+## Process Overview & Tools
 
 Here are some of the parts required for this project:
 
@@ -32,3 +44,7 @@ Set up your chip as:
 * Tools-->Port--> (whatever port the board is mounted on for me it was /dev/sdX <-- X will be different for you.
 
 Open the serial monitor (ctrl+shift+m). This allows you to see the output that the board is printing. If you don't see any output or get garbage make sure that your upload speed and baud rate are the same. You can change the baud rate after opening the serial monitor it should be at the bottom of the serial monitors window.
+
+## License
+
+## Acknowledgements
