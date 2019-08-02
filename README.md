@@ -60,7 +60,7 @@ The case needed three openings (one for the switch, one for the battery charger'
 **Assembly**
 The cicruit for this board was built using this schematic:
 
-![charger circuit] (charger circuit.png)
+![charger_circuit] (charger circuit.png)
 
 
 ## Future Extensions
