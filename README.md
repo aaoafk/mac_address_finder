@@ -72,6 +72,6 @@ We would like to thank Christina for proposing the MAC address finder project in
 
 We are incredibly grateful to our project supervisors, Anthony Weed and Nabil Kashyap, our SPEED program supervisor, Doug Willen, and project contributor, Andrew Ruether, for their constant support, helping hands, and considerate insight. All provided us with their own expertise and encouragement as we learned how to navigate through assemblying electronics hardware and 3D design. Thank you also to the Swarthmore College Librarians and ITS for all their support behind the scenes through the whole process.
 
-Additionally, we would like to thank all of our fellow SPEED members, **Alice Huang ('22)**, **Bilal Soukouna ('22)** and **Katie Knox ('21)**, for providing us with supportive feedback and constant support during the duration of this project.
+Additionally, we would like to thank all of our fellow SPEED members, **Alice Huang ('22)**, **Bilal Soukouna ('22)** and **Katie Knox ('21)**, for providing us with supportive feedback and constant support during the duration of this project. Lastly, thank you to **Evie Low '22** from the Makerspace who helped us design, prepare, and print out our final product.
 
 This project was funded by the Swarthmore Projects for Educational Exploration and Development (SPEED) Program at Swarthmore College.
