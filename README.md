@@ -21,12 +21,11 @@ We used a previously existing [project](https://learn.adafruit.com/mac-address-f
 
 [OLED Displays](https://www.amazon.com/gp/product/B0761LV1SD/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 
-[IRFD9024 Mosfet] (https://www.vishay.com/docs/91137/sihfd902.pdf)
+[IRFD9024 Mosfet](https://www.vishay.com/docs/91137/sihfd902.pdf)
 
 [Pin Diode]
 
-[Adafruit Mini Lipo w/Mini-B USB Jack - USB LiIon/LiPoly charger - v1] (
-https://www.adafruit.com/product/1905?gclid=Cj0KCQjwvo_qBRDQARIsAE-bsH__Asb4inO1-XE0V_F_KAbHImAmh22P0SS0DY36mvQU5T1CZnm-2j8aAr6FEALw_wcB)
+[Adafruit Mini Lipo w/Mini-B USB Jack - USB LiIon/LiPoly charger - v1](https://www.adafruit.com/product/1905?gclid=Cj0KCQjwvo_qBRDQARIsAE-bsH__Asb4inO1-XE0V_F_KAbHImAmh22P0SS0DY36mvQU5T1CZnm-2j8aAr6FEALw_wcB)
 
 (Any switch you want off amazon.)
 
@@ -38,9 +37,9 @@ In order to push this code to a ESP8266 board it has to be uploaded to the board
 
 [Instructions for Linux](https://www.arduino.cc/en/Guide/Linux#toc4)
 
-[Instructions for Windows] (https://www.arduino.cc/en/Guide/Windows)
+[Instructions for Windows](https://www.arduino.cc/en/Guide/Windows)
 
-[Instructions for Mac] (https://www.arduino.cc/en/Guide/MacOSX)
+[Instructions for Mac](https://www.arduino.cc/en/Guide/MacOSX)
 
 After installing the Arduino IDE. The board has to be connected to your computer via micro-USB. The boards options have to be configured. Make sure that these options are set:
 
@@ -60,7 +59,7 @@ The case needed three openings (one for the switch, one for the battery charger'
 **Assembly**
 The cicruit for this board was built using this schematic:
 
-![charger_circuit] (charger circuit.png)
+![charger_circuit](charger circuit.png)
 
 
 ## Future Extensions
