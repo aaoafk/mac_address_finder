@@ -54,12 +54,12 @@ Open the serial monitor (ctrl+shift+m). This allows you to see the output that t
 
 **Case**
 
-The case needed three openings (one for the switch, one for the battery charger's port, and one for the screen), a holder for the rechargable battery, and a holder for the main board. We used Rhinoceros as our 3D modeling software to create the case. Our final prototype was 3D printed using a Markforged Onyx Series 3D printer with a black nylon material. The file containing the model for the case can be found in the repository. 
+The case needed three openings (one for the switch, one for the battery charger's port, and one for the screen), a holder for the rechargable battery, and a holder for the main board. We used Rhinoceros as our 3D modeling software to create the case. Our final prototype was 3D printed using a Markforged Onyx Series 3D printer with a black nylon material. The [file](https://github.swarthmore.edu/SPEED/mac-address-finder/blob/master/MAC_Address_Finder_v3.stl) containing the model for the case can be found in the repository. 
 
 **Assembly**
 The cicruit for this board was built using this schematic:
 
-[Circuit Image](charger circuit.png)
+![Charger Circuit](https://github.swarthmore.edu/SPEED/mac-address-finder/blob/master/charger%20circuit.png)
 
 
 ## Future Extensions
