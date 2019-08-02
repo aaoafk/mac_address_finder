@@ -60,7 +60,7 @@ The case needed three openings (one for the switch, one for the battery charger'
 **Assembly**
 The cicruit for this board was built using this schematic:
 
-![alt text](https://raw.githubusercontent.com/sfernan1/SPEED/mac-address-finder/charger circuit.png)
+![charger circuit] (charger circuit.png)
 
 
 ## Future Extensions
