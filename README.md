@@ -21,6 +21,15 @@ We used a previously existing [project](https://learn.adafruit.com/mac-address-f
 
 [OLED Displays](https://www.amazon.com/gp/product/B0761LV1SD/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 
+[IRFD9024 Mosfet] (https://www.vishay.com/docs/91137/sihfd902.pdf)
+
+[Pin Diode]
+
+[Adafruit Mini Lipo w/Mini-B USB Jack - USB LiIon/LiPoly charger - v1] (
+https://www.adafruit.com/product/1905?gclid=Cj0KCQjwvo_qBRDQARIsAE-bsH__Asb4inO1-XE0V_F_KAbHImAmh22P0SS0DY36mvQU5T1CZnm-2j8aAr6FEALw_wcB)
+
+(Any switch you want off amazon.)
+
 **How to run this code:**
 
 This code was pushed to a ESP8266 NodeMCU 12-E board via the Arduino IDE (version 1.8.9). It will turn any ESP8266 board its pushed into a mac-address-finder. The ESP8266 is configured as a soft access point. So, it will emit a wifi signal that devices can connect to. Once that device is connected to the board it will print the mac address to the OLED screen.
@@ -39,7 +48,7 @@ Set up your chip as:
 * Tools -> Board -> NodeMCU 1.0 (ESP-12E Module)
 * Tools -> Flash Size -> 4M (3M SPIFFS)
 * Tools -> CPU Frequency -> 80 Mhz
-* Tools -> Upload Speed -> 921600
+* Tools -> Upload Speed -> 115200
 * Tools-->Port--> (whatever port the board is mounted on for me it was /dev/sdX <-- X will be different for you.
 
 Open the serial monitor (ctrl+shift+m). This allows you to see the output that the board is printing. If you don't see any output or get garbage make sure that your upload speed and baud rate are the same. You can change the baud rate after opening the serial monitor it should be at the bottom of the serial monitors window.
@@ -49,6 +58,7 @@ Open the serial monitor (ctrl+shift+m). This allows you to see the output that t
 The case needed three openings (one for the switch, one for the battery charger's port, and one for the screen), a holder for the rechargable battery, and a holder for the main board. We used Rhinoceros as our 3D modeling software to create the case. Our final prototype was 3D printed using a Markforged Onyx Series 3D printer with a black nylon material. The file containing the model for the case can be found in the repository. 
 
 **Assembly**
+The cicruit for this board was built using this schematic:
 
 
 ## Future Extensions
